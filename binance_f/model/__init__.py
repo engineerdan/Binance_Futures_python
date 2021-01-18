@@ -13,6 +13,7 @@ from binance_f.model.symbolprice import SymbolPrice
 from binance_f.model.symbolorderbook import SymbolOrderBook
 from binance_f.model.liquidationorder import LiquidationOrder
 from binance_f.model.aggregatetradeevent import AggregateTradeEvent
+from binance_f.model.tradeevent import TradeEvent
 from binance_f.model.markpriceevent import MarkPriceEvent
 from binance_f.model.candlestickevent import CandlestickEvent
 from binance_f.model.symbolminitickerevent import SymbolMiniTickerEvent
